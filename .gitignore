@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+*.tsbuildinfo
+
+# Environment (secrets)
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+*.local
+.vscode/
+.idea/
+
+# Vercel
+.vercel/
+
+# Claude
+.claude/
